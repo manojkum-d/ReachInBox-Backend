@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focus-blueprint-431916-v9",
+  "private_key_id": "57f05d7a6ddfb5769e2c9c281638429ad1227ce4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHiPU28J7y4WaJ\n5Vm8HJLvRXQtr4YQQIToj96jHNWBa5gEqo62PKV6+/ZdQ/ofHlMRP3I2gQ7lyw+K\n1lqsw3K1bKIPDEDbq+wfZAiCanl0b4yuOOqx7dronAQ7i+IiNzbtbOeuGbTl0NcC\nvApnr4B8b6iqxPE4iNN97JiGv6g8LExxs699hUobuhbzm8ubN3+DoOcVeJgp4fcm\n4uekVBSgjEVmD8x79UN6X+g7TggN2CEye/Ewvx1NgnYlwvnKeqXYRA6QqCyw2dCu\ncbaAIgHUW8Qp0n0LBK4SJSS/w6yzOaEWkcrLf1UdU0BvLkOS4KslgvJZNlIBB9QC\nskFoEvirAgMBAAECggEAGaCm6LjcRr2vJHmR85iH7AteR0U1UX5ik6wcID8NJ7jg\nptjGc57ecilNFIrX499KiVCTeW9MsTRKJBQxQ+Hmfb7HdxSlJTxeRg8xuJkMTb7L\nXCUbSmG5ArSR0UQUyz2O5He0WfwbQS54LyBlBbmDeyKsOyKzCLEqLhDmljKk3PVp\ne9/bJItczyuWdKp0NDivh5US/2kJa3A/QPp4FPB35rBTjiXGtpfi8WSm6+BGsBs2\nEKv06Gg+HS+5T2hIr88ZJmrt8p73SkMbeY4itdBFj4ilhPHxgXIgu7DBk6jh0f6o\npoGm967s3wd3knNynlz6olb1E8wN8bEXN7ldEoAr4QKBgQDrZYLEsKPYiAd5XECk\n107A6M/7vtbbkDaWfHI7KwYISBPe6t7Vz/Toztdbx35MMGdJPtK6oF8WLdweOIHv\n7zKkccr9+ZTZGVBMdH4SBqzgus6wAWqd047FtI5WTlfe2VwUzGiYv/O1lZRsBAWY\nfIuX6/baH7CNazl5vvPmqm7WJwKBgQDY/+djGoqKrqb37oN5NKe1OrD3sRm+P5hR\nVzeV/GPrmxbOa398MiWdVoJ/N3R/Je3gy6gR+cX6Yzu9Sm7RaAqKif5OGYqmuaYi\nJz/KJemSKZ+UITQ3WmLnawwfiGuECpfsE6vOiEOWWMbcY6/LBu9h/vu/+4abacGX\ng0UKnZu/3QKBgQDjUKCqPgXLGPlWub53MLANXAVUjuK/HpGIWt6YwqBNqQT/VIIh\nqXNQykVvjMMq4ecr9S3cKPgJ2/lfeaQIxk16PaUQA085ItfHLQt9btLNJbhogMWr\naVvLEeQN9hOm0PG55/bt4xd+d9bfRDb/HO5Uo/o6gzWkKzJSnhK74kOsKwKBgFIe\nXZEqfR1IRNV0hHp8y66QnGHPun89j8XQbK+syJ9jnHjXQ3Jbg9KL52x/Lu3jC6dT\nSrIqxJohrXzPyyoh5kNRP1SM4+R+QvmPwtscB80RRVuISTtdUCplXzwboxxf6egj\n9ZN+C5280NycOO1rHXIHTXv0kpcDqYhN2/XNeSBdAoGAIxE/uRP96VxJoVb54m3E\n3Ns5TTk0uU873qGEpbLFoml3zyij6n+dxSBTaWqYbrjnpcDzJrUkIyPdN9IugTje\n4RFiGXmrovGLjn5fOKNYfkDYEqt6WsmaAJACgZbvDSiQEYfuG8q7wJMdL4N27lmP\n+jfZt1J+Tm0A6CbCkiGoxCI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "manuuu@focus-blueprint-431916-v9.iam.gserviceaccount.com",
+  "client_id": "113963336884052933041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manuuu%40focus-blueprint-431916-v9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

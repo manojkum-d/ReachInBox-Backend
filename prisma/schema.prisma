@@ -1,0 +1,30 @@
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id                Int      @id @default(autoincrement())
+  email             String   @unique
+  oauthProvider     String
+  oauthAccessToken  String?  // Stores the access token
+  accessTokenExpiry DateTime? // Stores the expiry time of the access token
+  oauthRefreshToken String?  // Stores the refresh token
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  emails            Email[]
+}
+
+model Email {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  messageId String   @unique
+  subject   String
+  snippet   String
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id])
+}

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Specify ECMAScript target version, suitable for modern JS
+    "module": "NodeNext", // Use ESNext module syntax
+    "moduleResolution": "NodeNext", // Resolve modules as Node.js does
+    "strict": true, // Enable all strict type-checking options
+    "esModuleInterop": true, // Enables emit interoperability between CommonJS and ES Modules
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true, // Disallow inconsistently-cased references to the same file
+    "outDir": "dist", // Redirect output structure to the dist directory
+    "rootDir": ".", // Specify the root directory of input files
+    "resolveJsonModule": true, // Allow importing JSON files
+    "typeRoots": ["./src/interfaces", "./node_modules/@types"],
+    "types": ["node", "express-session"], // List of folders to include type definitions from
+    "sourceMap": true // Generates corresponding '.map' file
+  },
+  // "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
